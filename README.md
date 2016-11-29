@@ -3,6 +3,10 @@ Search and replace on the command line using Javscript regular expressions.
 
 A handy replacement to `sed`.
 
+```console
+$ npm install qix-/xp
+```
+
 ```
 
   Usage: xp [-ialo] <search pattern> [replace pattern] [--] [files...]
