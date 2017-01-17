@@ -4,7 +4,7 @@ Search and replace on the command line using Javscript regular expressions.
 A handy replacement to `sed`.
 
 ```console
-$ npm install qix-/xp
+$ npm install -g xp
 ```
 
 ```
